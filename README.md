@@ -1,1 +1,2 @@
 # bucket_buddy
+I am the type of person that has a million lists of ideas and things I want to do. In hopes to make fun more exciting I’ve brainstormed a list of challenges (weekly/monthly/etc.) to complete. The problem is that I jot them down in my journal which I keep at home, and I don’t pick up my journal enough, so I haven’t done any weekly challenges in while.  I wanted to create an app because for one it would be more accessible to me. I hope the app helps me better track my goals and plans for future ones. 
